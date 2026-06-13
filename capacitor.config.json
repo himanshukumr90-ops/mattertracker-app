@@ -10,10 +10,13 @@
       "app.base44.com",
       "base44.com",
       "accounts.google.com",
-      "*.googleusercontent.com"
+      "*.google.com",
+      "*.googleusercontent.com",
+      "*.gstatic.com"
     ]
   },
   "android": {
-    "allowMixedContent": false
+    "allowMixedContent": false,
+    "overrideUserAgent": "Mozilla/5.0 (Linux; Android 13; SM-G781B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
   }
 }
