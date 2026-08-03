@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Adaptive-icon background: MatterTracker navy, matching the store icon. -->
+<!-- Adaptive-icon background: the navy from the MatterTracker logo. -->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
-    <gradient
-        android:type="linear"
-        android:angle="270"
-        android:startColor="#26345E"
-        android:endColor="#0C1120" />
+    <solid android:color="#1D354E" />
 </shape>
