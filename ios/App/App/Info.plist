@@ -24,6 +24,8 @@
 	<true/>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>MatterTracker does not use your location. This notice appears only because our push-notification provider's SDK includes optional location features, which this app leaves disabled.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>MatterTracker uses the camera so you can photograph the unofficial cause lists posted outside courtrooms.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
