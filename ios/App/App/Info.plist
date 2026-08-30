@@ -22,6 +22,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>NSCameraUsageDescription</key>
 	<string>MatterTracker uses the camera so you can photograph the unofficial cause lists posted outside courtrooms.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
